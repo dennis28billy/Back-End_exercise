@@ -1,6 +1,6 @@
 import React, { useState } from "react";
-import Button from "../../components/atom/Button";
-import Input from "../../components/atom/Input";
+import Button from "../../atom/Button";
+import Input from "../../atom/Input";
 
 const Login = () => {
   const [username, setUsername] = useState("");

@@ -17,12 +17,15 @@ const Navbar = () => {
           aria-expanded="false"
           aria-label="Toggle navigation"
         >
-          <span className="navbar-toggler-icon"></span>
+            <span className="navbar-toggler-icon"></span>
         </button>
         <div className="collapse navbar-collapse" id="navbarNavAltMarkup">
           <div className="navbar-nav">
             <Link className="nav-link" to="/">
               Dashboard
+            </Link>
+            <Link className="nav-link" to="/AddUser">
+              Add User
             </Link>
             <Link className="nav-link" to="/about">
               About

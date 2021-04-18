@@ -1,3 +1,13 @@
+# Back-End Web Development - Paralel B
+
+## Exercise #05
+
+Buat halaman untuk input data-data seperti (email, first name & last name). Ketika clik tombol save data-data yang dimasukan disimpan dalam db.json. Tambahkan juga routing untuk navigasi.
+
+### Note :
+
+Code Exercise 5 lanjutan dari code exercise 4.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

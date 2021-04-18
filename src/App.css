@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+.profile {
+  height: 300px;
+  width: 250px;
+}
+.alignCenter {
+  align-items: center;
+}
