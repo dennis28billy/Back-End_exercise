@@ -1,6 +1,7 @@
 # Back-End Web Development - Paralel B
 
-## Exercise #05
+## Exercise #04 - Commit 14/04/2021
+## Exercise #05 - Commit 18/04/2021
 
 Buat halaman untuk input data-data seperti (email, first name & last name). Ketika clik tombol save data-data yang dimasukan disimpan dalam db.json. Tambahkan juga routing untuk navigasi.
 
